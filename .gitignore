@@ -2,3 +2,4 @@ App-inplace-*
 .build
 *~
 nytprof*
+.DS_Store
